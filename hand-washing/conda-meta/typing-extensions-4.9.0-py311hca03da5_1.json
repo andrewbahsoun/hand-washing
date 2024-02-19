@@ -1,0 +1,34 @@
+{
+  "build": "py311hca03da5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "typing_extensions 4.9.0 py311hca03da5_1"
+  ],
+  "extracted_package_dir": "/Users/andrewbahsoun/anaconda3/pkgs/typing-extensions-4.9.0-py311hca03da5_1",
+  "files": [],
+  "fn": "typing-extensions-4.9.0-py311hca03da5_1.conda",
+  "legacy_bz2_md5": "e4ada62e242b4702435995090405d693",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/andrewbahsoun/anaconda3/pkgs/typing-extensions-4.9.0-py311hca03da5_1",
+    "type": 1
+  },
+  "md5": "655d8e4d7974ea658e718dcad2720e92",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "/Users/andrewbahsoun/anaconda3/pkgs/typing-extensions-4.9.0-py311hca03da5_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3ecc3c698df2452108fa52ba39fd11c72925207e2483c83493cde8c7f06cdf89",
+  "size": 10209,
+  "subdir": "osx-arm64",
+  "timestamp": 1705599390176,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/typing-extensions-4.9.0-py311hca03da5_1.conda",
+  "version": "4.9.0"
+}
